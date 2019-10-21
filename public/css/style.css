@@ -259,9 +259,9 @@ body {
 main {
   /* position: relative; */
 
-  background-image: url(../images/bg.png);
+  background-image: url(../images/bgdesktop.png);
   background-repeat: no-repeat;
-  background-position: 71% 93%;
+  background-position: 71% 0%;
 }
 
 @media(max-width:1024px) {
